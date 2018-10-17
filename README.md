@@ -8,3 +8,4 @@ markdown overview
 - bold text with **bold** with **
 - include  [links](https://embl.de) with [] and ()
 - there is a change here
+- type code with backticks `code`
